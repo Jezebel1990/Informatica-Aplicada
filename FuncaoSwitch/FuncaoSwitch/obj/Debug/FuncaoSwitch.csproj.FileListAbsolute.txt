@@ -1,0 +1,7 @@
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\FuncaoSwitch\FuncaoSwitch\bin\Debug\FuncaoSwitch.exe.config
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\FuncaoSwitch\FuncaoSwitch\bin\Debug\FuncaoSwitch.exe
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\FuncaoSwitch\FuncaoSwitch\bin\Debug\FuncaoSwitch.pdb
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\FuncaoSwitch\FuncaoSwitch\obj\Debug\FuncaoSwitch.csprojAssemblyReference.cache
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\FuncaoSwitch\FuncaoSwitch\obj\Debug\FuncaoSwitch.csproj.CoreCompileInputs.cache
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\FuncaoSwitch\FuncaoSwitch\obj\Debug\FuncaoSwitch.exe
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\FuncaoSwitch\FuncaoSwitch\obj\Debug\FuncaoSwitch.pdb
