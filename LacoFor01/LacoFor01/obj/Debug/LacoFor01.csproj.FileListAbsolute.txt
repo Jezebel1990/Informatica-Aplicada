@@ -1,0 +1,7 @@
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\LacoFor01\LacoFor01\bin\Debug\LacoFor01.exe.config
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\LacoFor01\LacoFor01\bin\Debug\LacoFor01.exe
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\LacoFor01\LacoFor01\bin\Debug\LacoFor01.pdb
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\LacoFor01\LacoFor01\obj\Debug\LacoFor01.csprojAssemblyReference.cache
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\LacoFor01\LacoFor01\obj\Debug\LacoFor01.csproj.CoreCompileInputs.cache
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\LacoFor01\LacoFor01\obj\Debug\LacoFor01.exe
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\LacoFor01\LacoFor01\obj\Debug\LacoFor01.pdb
