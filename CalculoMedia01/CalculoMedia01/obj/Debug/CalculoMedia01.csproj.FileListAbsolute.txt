@@ -1,0 +1,20 @@
+C:\Users\pro8808\Desktop\Projetos WFA\CalculoMedia01\CalculoMedia01\bin\Debug\CalculoMedia01.exe.config
+C:\Users\pro8808\Desktop\Projetos WFA\CalculoMedia01\CalculoMedia01\bin\Debug\CalculoMedia01.exe
+C:\Users\pro8808\Desktop\Projetos WFA\CalculoMedia01\CalculoMedia01\bin\Debug\CalculoMedia01.pdb
+C:\Users\pro8808\Desktop\Projetos WFA\CalculoMedia01\CalculoMedia01\obj\Debug\CalculoMedia01.csprojAssemblyReference.cache
+C:\Users\pro8808\Desktop\Projetos WFA\CalculoMedia01\CalculoMedia01\obj\Debug\CalculoMedia01.Form1.resources
+C:\Users\pro8808\Desktop\Projetos WFA\CalculoMedia01\CalculoMedia01\obj\Debug\CalculoMedia01.Properties.Resources.resources
+C:\Users\pro8808\Desktop\Projetos WFA\CalculoMedia01\CalculoMedia01\obj\Debug\CalculoMedia01.csproj.GenerateResource.cache
+C:\Users\pro8808\Desktop\Projetos WFA\CalculoMedia01\CalculoMedia01\obj\Debug\CalculoMedia01.csproj.CoreCompileInputs.cache
+C:\Users\pro8808\Desktop\Projetos WFA\CalculoMedia01\CalculoMedia01\obj\Debug\CalculoMedia01.exe
+C:\Users\pro8808\Desktop\Projetos WFA\CalculoMedia01\CalculoMedia01\obj\Debug\CalculoMedia01.pdb
+X:\Professores\Prof. Paulo Emanuel\INFORMÁTICA APLICADA\CalculoMedia01\CalculoMedia01\bin\Debug\CalculoMedia01.exe.config
+X:\Professores\Prof. Paulo Emanuel\INFORMÁTICA APLICADA\CalculoMedia01\CalculoMedia01\bin\Debug\CalculoMedia01.exe
+X:\Professores\Prof. Paulo Emanuel\INFORMÁTICA APLICADA\CalculoMedia01\CalculoMedia01\bin\Debug\CalculoMedia01.pdb
+X:\Professores\Prof. Paulo Emanuel\INFORMÁTICA APLICADA\CalculoMedia01\CalculoMedia01\obj\Debug\CalculoMedia01.csprojAssemblyReference.cache
+X:\Professores\Prof. Paulo Emanuel\INFORMÁTICA APLICADA\CalculoMedia01\CalculoMedia01\obj\Debug\CalculoMedia01.Form1.resources
+X:\Professores\Prof. Paulo Emanuel\INFORMÁTICA APLICADA\CalculoMedia01\CalculoMedia01\obj\Debug\CalculoMedia01.Properties.Resources.resources
+X:\Professores\Prof. Paulo Emanuel\INFORMÁTICA APLICADA\CalculoMedia01\CalculoMedia01\obj\Debug\CalculoMedia01.csproj.GenerateResource.cache
+X:\Professores\Prof. Paulo Emanuel\INFORMÁTICA APLICADA\CalculoMedia01\CalculoMedia01\obj\Debug\CalculoMedia01.csproj.CoreCompileInputs.cache
+X:\Professores\Prof. Paulo Emanuel\INFORMÁTICA APLICADA\CalculoMedia01\CalculoMedia01\obj\Debug\CalculoMedia01.exe
+X:\Professores\Prof. Paulo Emanuel\INFORMÁTICA APLICADA\CalculoMedia01\CalculoMedia01\obj\Debug\CalculoMedia01.pdb
