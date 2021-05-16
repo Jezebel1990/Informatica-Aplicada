@@ -1,0 +1,10 @@
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\array\Projetos WFA\ManiCor\ManiCor\bin\Debug\ManiCor.exe.config
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\array\Projetos WFA\ManiCor\ManiCor\bin\Debug\ManiCor.exe
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\array\Projetos WFA\ManiCor\ManiCor\bin\Debug\ManiCor.pdb
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\array\Projetos WFA\ManiCor\ManiCor\obj\Debug\ManiCor.csprojAssemblyReference.cache
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\array\Projetos WFA\ManiCor\ManiCor\obj\Debug\ManiCor.Form1.resources
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\array\Projetos WFA\ManiCor\ManiCor\obj\Debug\ManiCor.Properties.Resources.resources
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\array\Projetos WFA\ManiCor\ManiCor\obj\Debug\ManiCor.csproj.GenerateResource.cache
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\array\Projetos WFA\ManiCor\ManiCor\obj\Debug\ManiCor.csproj.CoreCompileInputs.cache
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\array\Projetos WFA\ManiCor\ManiCor\obj\Debug\ManiCor.exe
+C:\Users\051190040\Desktop\PROJETOS C# APLICAÇÃO EM CONSOLE MS DOS\array\Projetos WFA\ManiCor\ManiCor\obj\Debug\ManiCor.pdb
